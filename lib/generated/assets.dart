@@ -12,5 +12,6 @@ class Assets {
   static const String fontsMontserrat-Regular = 'assets/fonts/Montserrat-Regular.ttf';
   static const String fontsNunito-Regular = 'assets/fonts/Nunito-Regular.ttf';
   static const String imagesMini-xylophone-with-musical-notes286786-339-removebg-preview = 'assets/images/mini-xylophone-with-musical-notes_286786-339-removebg-preview.png';
+  static const String imagesNote1 = 'assets/images/note1.wav';
 
 }
